@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OTW Portfolio Light v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-11 21:26:14+0000\n"
+"Last-Translator: admin <office@onetwoweb.bg>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: otw-portfolio-light.php:26
+#@ otw_pfl
+msgid "Portfolio Item"
+msgstr ""
+
+#: otw-portfolio-light.php:27
+#@ otw_pfl
+msgid "Add New"
+msgstr ""
+
+#: otw-portfolio-light.php:28
+#@ otw_pfl
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: otw-portfolio-light.php:29
+#@ otw_pfl
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: otw-portfolio-light.php:30
+#@ otw_pfl
+msgid "New Portfolio Item"
+msgstr ""
+
+#: otw-portfolio-light.php:31
+#@ otw_pfl
+msgid "View Portfolio Item"
+msgstr ""
+
+#: otw-portfolio-light.php:32
+#@ otw_pfl
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: otw-portfolio-light.php:33
+#@ otw_pfl
+msgid "No portfolio items found"
+msgstr ""
+
+#: otw-portfolio-light.php:34
+#@ otw_pfl
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: otw-portfolio-light.php:35
+#@ otw_pfl
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: otw-portfolio-light.php:25
+#: otw-portfolio-light.php:36
+#@ otw_pfl
+msgid "OTW Portfolio"
+msgstr ""
+
+#: otw-portfolio-light.php:42
+#@ otw_pfl
+msgid "Custom Post Type - Portfolio Pages"
+msgstr ""
+
+#: otw-portfolio-light.php:64
+#: otw-portfolio-light.php:74
+#@ otw_pfl
+msgid "Portfolio Categories"
+msgstr ""
+
+#: otw-portfolio-light.php:65
+#@ otw_pfl
+msgid "Portfolio Category"
+msgstr ""
+
+#: otw-portfolio-light.php:66
+#@ otw_pfl
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: otw-portfolio-light.php:67
+#@ otw_pfl
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: otw-portfolio-light.php:68
+#@ otw_pfl
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: otw-portfolio-light.php:69
+#@ otw_pfl
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: otw-portfolio-light.php:70
+#@ otw_pfl
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: otw-portfolio-light.php:71
+#@ otw_pfl
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: otw-portfolio-light.php:72
+#@ otw_pfl
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: otw-portfolio-light.php:73
+#@ otw_pfl
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: otw-portfolio-light.php:97
+#: otw-portfolio-light.php:346
+#: otw-portfolio-light.php:360
+#@ otw_pfl
+msgid "Portfolio Settings"
+msgstr ""
+
+#: otw-portfolio-light.php:109
+#@ otw_pfl
+msgid "URL"
+msgstr ""
+
+#: otw-portfolio-light.php:110
+#@ otw_pfl
+msgid "Enter URL of your clients site e.g. www.google.com (optional)"
+msgstr ""
+
+#: otw-portfolio-light.php:115
+#@ otw_pfl
+msgid "Testimonial"
+msgstr ""
+
+#: otw-portfolio-light.php:116
+#@ otw_pfl
+msgid "Enter a testimonial from your client to be displayed on the single portfolio page (optional)"
+msgstr ""
+
+#: otw-portfolio-light.php:121
+#@ otw_pfl
+msgid "Portfolio Images"
+msgstr ""
+
+#: otw-portfolio-light.php:122
+#@ otw_pfl
+msgid "Upload an image or enter an URL to your portfolio image (optional)"
+msgstr ""
+
+#: otw-portfolio-light.php:202
+#: otw-portfolio-light.php:212
+#@ otw_pfl
+msgid "Choose Image"
+msgstr ""
+
+#: otw-portfolio-light.php:203
+#: otw-portfolio-light.php:213
+#@ otw_pfl
+msgid "Remove"
+msgstr ""
+
+#: otw-portfolio-light.php:215
+#@ otw_pfl
+msgid "Add New Image"
+msgstr ""
+
+#: otw-portfolio-light.php:346
+#@ otw_pfl
+msgid "Settings"
+msgstr ""
+
+#: otw-portfolio-light.php:365
+#@ otw_pfl
+msgid "Portfolio Thumnbail Size (Archive)"
+msgstr ""
+
+#: otw-portfolio-light.php:367
+#: otw-portfolio-light.php:374
+#: otw-portfolio-light.php:381
+#@ otw_pfl
+msgid "Width (in px)"
+msgstr ""
+
+#: otw-portfolio-light.php:367
+#@ otw_pfl
+msgid "(default is 303)"
+msgstr ""
+
+#: otw-portfolio-light.php:368
+#: otw-portfolio-light.php:375
+#@ otw_pfl
+msgid "Height (in px)"
+msgstr ""
+
+#: otw-portfolio-light.php:368
+#@ otw_pfl
+msgid "(default is 210)"
+msgstr ""
+
+#: otw-portfolio-light.php:372
+#@ otw_pfl
+msgid "Portfolio Image Size (Single)"
+msgstr ""
+
+#: otw-portfolio-light.php:374
+#@ otw_pfl
+msgid "(default is 700)"
+msgstr ""
+
+#: otw-portfolio-light.php:375
+#@ otw_pfl
+msgid "(default is 400)"
+msgstr ""
+
+#: otw-portfolio-light.php:386
+#@ otw_pfl
+msgid "Save Changes"
+msgstr ""
+
+#: otw-portfolio-light.php:517
+#@ otw_pfl
+msgid "Pages:"
+msgstr ""
+
+#: templates/otw-portfolio-paginated.php:58
+#: templates/otw-prtfolio-filterable.php:63
+#@ otw_pfl
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/otw-portfolio-paginated.php:62
+#: templates/otw-prtfolio-filterable.php:67
+#@ otw_pfl
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: templates/otw-portfolio-post.php:47
+#: templates/otw-portfolio-post.php:59
+#@ otw_pfl
+msgid "Previous"
+msgstr ""
+
+#: templates/otw-portfolio-post.php:47
+#: templates/otw-portfolio-post.php:59
+#@ otw_pfl
+msgid "Next"
+msgstr ""
+
+#: templates/otw-portfolio-post.php:64
+#@ otw_pfl
+msgid "Edit Post"
+msgstr ""
+
+#: templates/otw-portfolio-post.php:70
+#@ otw_pfl
+msgid "Visit site"
+msgstr ""
+
+#: templates/otw-portfolio-post.php:82
+#@ otw_pfl
+msgid "Post navigation"
+msgstr ""
+
+#: templates/otw-portfolio-post.php:83
+#@ otw_pfl
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: templates/otw-portfolio-post.php:84
+#@ otw_pfl
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: templates/otw-prtfolio-filterable.php:20
+#@ otw_pfl
+msgid "All"
+msgstr ""
+
+#: otw-portfolio-light.php:379
+#@ otw_pfl
+msgid "otw-row width"
+msgstr ""
+
+#: otw-portfolio-light.php:381
+#@ otw_pfl
+msgid "(default is empty)"
+msgstr ""
+
+#: otw-portfolio-light.php:382
+#@ otw_pfl
+msgid "If you leave empty this means otw-row will take 100% of your content area. This works well on most themes. If your theme content area does not have fixed width you can set the width of the content here in pixels."
+msgstr ""
+
+#: templates/otw-portfolio-paginated.php:38
+#: templates/otw-prtfolio-filterable.php:41
+#@ otw_pfl
+msgid "No Image"
+msgstr ""
+
+#: templates/otw-template-full-width.php:29
+#@ otw_pfl
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: otw-portfolio-light.php:276
+#@ otw_pfl
+msgid "Page title setting"
+msgstr ""
+
+#: otw-portfolio-light.php:304
+#@ otw_pfl
+msgid "Hide Portfolio Title"
+msgstr ""
+

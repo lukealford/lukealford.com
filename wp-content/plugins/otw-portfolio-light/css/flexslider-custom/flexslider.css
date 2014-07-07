@@ -1,0 +1,212 @@
+/* Slider defaults */
+
+.slider-area {
+  padding: 20px 0;
+  margin: 0;
+}
+.fullwidthbanner-container {
+  margin-bottom: 20px;
+}
+.background-slider {
+  background-color: #f2f2f2;
+  margin-bottom: 20px;
+}
+
+/* FlexSlider Necessary Styles */
+.flexslider .slides > li, .wooslider .slides > li {
+	margin:0;
+	padding:0;
+	/* WooThemes recommendation for fixing lines */
+	-webkit-backface-visibility: visible;
+}
+
+.flexslider, .wooslider   {
+  background: transparent !important;
+  margin: 20px 0 60px;
+  border-width: 0 !important;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+}
+
+.bordered-slider .flexslider, .bordered-slider .wooslider, #bordered-slider  {
+  border-width: 5px !important;
+  -webkit-border-radius: 6px !important;
+  -moz-border-radius: 6px !important;
+  -o-border-radius: 6px !important;
+  border-radius: 6px !important;
+  -webkit-box-shadow: 0 1px 5px rgba(0,0,0,.2) !important;
+  -moz-box-shadow: 0 1px 5px rgba(0,0,0,.2) !important;
+  -o-box-shadow: 0 1px 5px rgba(0,0,0,.2) !important;
+  box-shadow: 0 1px 5px rgba(0,0,0,.2) !important;
+}
+
+.wooslider .slide-content p{
+margin-bottom:0px;
+}
+
+/* Direction Nav */
+.flex-direction-nav a, .wooslider .wooslider-direction-nav a {
+  background: url(images/bg_direction_nav.png) no-repeat 0 0;
+}
+
+.wooslider-direction-nav .wooslider-next {
+    background-position: 100% 0 !important;
+}
+
+#portfolio-carousel li {
+    margin-right: 5px;
+}
+
+.portfolio-gallery-wrapper{
+  overflow:hidden;
+}
+
+
+/* Control Nav */
+
+.wooslider .wooslider-control-thumbs.wooslider-control-nav{
+  margin:0 !important;
+}
+
+.flex-control-nav li, .wooslider .wooslider-control-nav > li {
+	margin:10px 3px !important;
+}
+.flex-control-paging li a, .wooslider .wooslider-control-paging li a {
+	background:#f3f3f3;
+	box-shadow: inset 1px 1px 3px rgba(0,0,0,0.35);
+}
+.flex-control-paging li a:hover, .wooslider .wooslider-control-paging li a:hover {
+	background:#cdcbcb;
+}
+.flex-control-paging li a.flex-active, .wooslider .wooslider-control-paging li a.wooslider-active {
+	background:#00b1ec;
+	box-shadow: inset 1px 1px 3px rgba(0,0,0,0.5);
+}
+.flex-control-thumbs li, .wooslider-control-thumbs li {
+  width: 12.5% !important;
+  margin: 0 !important;
+}
+
+.wooslider .overlay-natural .slide-excerpt{
+    background:none;
+}
+
+.wooslider .layout-text-top .slide-excerpt{
+  bottom:auto;
+}
+
+.wooslider .overlay-none.layout-text-right img {
+    float: left;
+    height: auto;
+    width: 70%;
+}
+
+body .wooslider .overlay-none.layout-text-right .slide-excerpt {
+    bottom: 0;
+    overflow: hidden;
+    padding: 1em;
+    right: 0;
+    top: 0;
+    width: 30%;
+    background:black;
+}
+
+.wooslider .overlay-none.layout-text-left img {
+    float: right;
+    height: auto;
+    width: 70%;
+}
+
+body .wooslider .overlay-none.layout-text-left .slide-excerpt {
+    bottom: 0;
+    overflow: hidden;
+    padding: 1em;
+    left: 0;
+    top: 0;
+    width: 30%;
+    background:black;
+}
+
+
+body .wooslider .slide-content{
+  margin:0px;
+}
+
+.animate-on-hover .image {
+  position: relative;
+}
+.animate-on-hover .image img {
+  display: block;
+}
+.animate-on-hover .image .shadow-overlay {
+  display: block;
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0.01) inset;
+  -moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0.01) inset;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.01) inset;
+}
+
+.ie8 .animate-on-hover .image .shadow-overlay {
+  background-color: #000;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+.ie8 .animate-on-hover .image .shadow-overlay:hover {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+}
+
+.otw-portfolio-item-link {
+  position: relative;
+}
+.otw-portfolio-item-link img {
+  display: block;
+}
+.otw-portfolio-item-link .shadow-overlay {
+  display: block;
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0.01) inset;
+  -moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0.01) inset;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.01) inset;
+}
+
+.ie8 .otw-portfolio-item-link .shadow-overlay {
+  background-color: #000;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+.ie8 .otw-portfolio-item-link .shadow-overlay:hover {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+}
+
+
+/* Captions */
+.flexslider ul.slides > li, .wooslider ul.slides > li {
+  position: relative !important;
+}
+.flex-caption, .slide-excerpt {
+  background: transparent url(images/gray-background-trasnp.png) repeat;
+  padding: 10px 20px;
+  color: #fff;
+  width: 100%;
+}
+.caption-title, .slide-title, .slide-title a {
+  color: #fff;
+}
+@media only screen and (min-width: 600px) {
+  .flex-caption, .slide-excerpt {
+    position: absolute;
+    bottom: 0;
+  }
+}

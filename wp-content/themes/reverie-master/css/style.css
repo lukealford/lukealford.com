@@ -2059,7 +2059,8 @@ button, .button {
   color: #333;
 
 }
-button:hover, button:focus, .button:hover, .button:focus {
+button:hover, button:focus, .button:hover, .button:focus, input[type="submit"]:hover,
+input[type="submit"]:focus {
   background-color: #FF2F2F;
   border-color: red;
 }
@@ -6531,20 +6532,7 @@ margin: 0 auto;
   background-color: rgba(51, 51, 51, 0.6);
   color: #fff;
 }
-input[type="submit"]{
-  background: rgba(223, 129, 90, 0.7);
-  padding: 10px 20px;
-  border-top-left-radius: 0px;
-  border-bottom-left-radius: 0px;
-  height: 35px;
 
-}
-input[type="submit"]:hover,
-input[type="submit"]:focus{
-  
-  background: rgba(223, 129, 90, 1);
-
-  }
 div.wpcf7-validation-errors{
 
   border: 2px solid rgba(0, 177, 238, 0.5);
